@@ -1,0 +1,7 @@
+# Don't track actual data files
+data/*.tif
+data/*.png
+
+# But do track logs and metadata
+!logs/
+!experiments/
