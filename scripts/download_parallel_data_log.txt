@@ -1,0 +1,200 @@
+/home/manan/miniconda3/envs/greenvision/lib/python3.13/site-packages/pystac_client/item_search.py:896: FutureWarning: get_all_items() is deprecated, use item_collection() instead.
+  warnings.warn(
+📡 Searching NAIP items...
+🔍 Found 192 items
+🚀 Starting parallel downloads with 8 workers...
+
+⏩ Already exists: ca_m_4012215_sw_10_060_20200713
+⏩ Already exists: ca_m_4012215_nw_10_060_20200713
+⏩ Already exists: ca_m_4012213_sw_10_060_20200713
+⏩ Already exists: ca_m_4012223_nw_10_060_20200713
+⏩ Already exists: ca_m_4112261_se_10_060_20200713
+⏩ Already exists: ca_m_4012222_nw_10_060_20200713
+⏩ Already exists: ca_m_4012215_ne_10_060_20200713
+⏩ Already exists: ca_m_4012222_ne_10_060_20200713
+⏩ Already exists: ca_m_4112262_se_10_060_20200713
+⏩ Already exists: ca_m_4012220_ne_10_060_20200713
+⏩ Already exists: ca_m_4012221_nw_10_060_20200713
+⏩ Already exists: ca_m_4012214_nw_10_060_20200713
+⏩ Already exists: ca_m_4012224_nw_10_060_20200713
+⏩ Already exists: ca_m_4012215_se_10_060_20200713
+⏩ Already exists: ca_m_4012223_ne_10_060_20200713
+⏩ Already exists: ca_m_4012214_ne_10_060_20200713
+⏩ Already exists: ca_m_4112262_sw_10_060_20200713
+⏩ Already exists: ca_m_4012216_nw_10_060_20200713
+⏩ Already exists: ca_m_4112261_sw_10_060_20200713
+⏩ Already exists: ca_m_4112263_se_10_060_20200713
+⏩ Already exists: ca_m_4112264_sw_10_060_20200713
+⏩ Already exists: ca_m_4012221_ne_10_060_20200713
+⏩ Already exists: ca_m_4012216_sw_10_060_20200713
+⏩ Already exists: ca_m_4112260_se_10_060_20200713
+⏩ Already exists: ca_m_4112263_sw_10_060_20200713
+⏩ Already exists: ca_m_4012214_sw_10_060_20200713
+⏩ Already exists: ca_m_4012208_nw_10_060_20200713
+⏩ Already exists: ca_m_4012207_sw_10_060_20200713
+⏩ Already exists: ca_m_4012207_se_10_060_20200713
+⏩ Already exists: ca_m_4012207_nw_10_060_20200713
+⏩ Already exists: ca_m_4012214_se_10_060_20200713
+⏩ Already exists: ca_m_4012207_ne_10_060_20200713
+⏩ Already exists: ca_m_4012206_sw_10_060_20200713
+⏩ Already exists: ca_m_4012212_ne_10_060_20200713
+⏩ Already exists: ca_m_4012208_sw_10_060_20200713
+⏩ Already exists: ca_m_4012213_se_10_060_20200713
+⏩ Already exists: ca_m_4012213_ne_10_060_20200713
+⏩ Already exists: ca_m_4012206_se_10_060_20200713
+⏩ Already exists: ca_m_4012205_ne_10_060_20200713
+⏩ Already exists: ca_m_4012204_se_10_060_20200713
+⏩ Already exists: ca_m_4012213_nw_10_060_20200713
+⏩ Already exists: ca_m_4112262_sw_10_060_20181009_20190210
+⏩ Already exists: ca_m_4112261_sw_10_060_20181009_20190210
+⏩ Already exists: ca_m_4112261_se_10_060_20181009_20190210
+⏩ Already exists: ca_m_4012205_se_10_060_20200713
+⏩ Already exists: ca_m_4012212_se_10_060_20200713
+⏩ Already exists: ca_m_4012214_sw_10_060_20181009_20190209
+⏩ Already exists: ca_m_4012214_nw_10_060_20181009_20190209
+⏩ Already exists: ca_m_4012213_sw_10_060_20181009_20190210
+⏩ Already exists: ca_m_4012205_sw_10_060_20200713
+⏩ Already exists: ca_m_4012213_nw_10_060_20181009_20190210
+⏩ Already exists: ca_m_4012213_ne_10_060_20181009_20190210
+⏩ Already exists: ca_m_4012212_ne_10_060_20181009_20190210
+⏩ Already exists: ca_m_4012204_ne_10_060_20200713
+⏩ Already exists: ca_m_4012206_nw_10_060_20181009_20190210
+⏩ Already exists: ca_m_4012205_sw_10_060_20181009_20190210
+⏩ Already exists: ca_m_4012205_se_10_060_20181009_20190210
+⏩ Already exists: ca_m_4012206_ne_10_060_20200713
+⏩ Already exists: ca_m_4012205_nw_10_060_20200713
+⏩ Already exists: ca_m_4012204_se_10_060_20181009_20190209
+⏩ Already exists: ca_m_4012206_sw_10_060_20181009_20190210
+⏩ Already exists: ca_m_4112264_sw_10_060_20181007_20190209
+⏩ Already exists: ca_m_4112263_sw_10_060_20181007_20190210
+⏩ Already exists: ca_m_4112263_se_10_060_20181007_20190210
+⏩ Already exists: ca_m_4112262_se_10_060_20181007_20190210
+⏩ Already exists: ca_m_4012224_nw_10_060_20181007_20190210
+⏩ Already exists: ca_m_4012223_nw_10_060_20181007_20190210
+⏩ Already exists: ca_m_4012206_nw_10_060_20200713
+⏩ Already exists: ca_m_4012221_ne_10_060_20181009_20190209
+⏩ Already exists: ca_m_4012204_ne_10_060_20181009_20190209
+⏩ Already exists: ca_m_4012205_nw_10_060_20181009_20190210
+⏩ Already exists: ca_m_4012205_ne_10_060_20181009_20190210
+⏩ Already exists: ca_m_4012222_nw_10_060_20181009_20190209
+⏩ Already exists: ca_m_4012213_se_10_060_20181009_20190210
+✅ Downloaded: ca_m_4012215_ne_10_060_20181007_20190209
+✅ Downloaded: ca_m_4012216_nw_10_060_20181007_20190209
+✅ Downloaded: ca_m_4012216_sw_10_060_20181007_20190209
+✅ Downloaded: ca_m_4012215_se_10_060_20181007_20190209
+✅ Downloaded: ca_m_4012215_sw_10_060_20181007_20190209
+✅ Downloaded: ca_m_4012215_nw_10_060_20181007_20190209
+✅ Downloaded: ca_m_4012222_ne_10_060_20181007_20190209
+✅ Downloaded: ca_m_4012223_ne_10_060_20181007_20190210
+✅ Downloaded: ca_m_4012214_se_10_060_20181007_20190209
+✅ Downloaded: ca_m_4012214_ne_10_060_20181007_20190209
+✅ Downloaded: ca_m_4012208_sw_10_060_20181007_20190209
+✅ Downloaded: ca_m_4012208_nw_10_060_20181007_20190209
+✅ Downloaded: ca_m_4012207_nw_10_060_20181007_20190210
+✅ Downloaded: ca_m_4012207_sw_10_060_20181007_20190210
+✅ Downloaded: ca_m_4012207_ne_10_060_20181007_20190210
+✅ Downloaded: ca_m_4012207_se_10_060_20181007_20190210
+✅ Downloaded: ca_m_4012206_se_10_060_20181007_20190210
+✅ Downloaded: ca_m_4012206_ne_10_060_20181007_20190210
+✅ Downloaded: ca_m_4112260_se_10_060_20180720_20190209
+✅ Downloaded: ca_m_4012221_nw_10_060_20180720_20190209
+✅ Downloaded: ca_m_4012220_ne_10_060_20180720_20190209
+✅ Downloaded: ca_m_4012212_se_10_060_20180720_20190210
+✅ Downloaded: ca_m_4112264_sw_10_.6_20160811_20161004
+✅ Downloaded: ca_m_4112263_sw_10_.6_20160717_20161018
+✅ Downloaded: ca_m_4112263_se_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4112262_se_10_.6_20160717_20161018
+✅ Downloaded: ca_m_4112262_sw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012224_nw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012222_nw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012223_nw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012223_ne_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012222_ne_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012215_sw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012216_sw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012216_nw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012215_se_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012214_sw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012215_nw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012214_se_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012215_ne_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012214_ne_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012214_nw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012208_sw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012208_nw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012207_nw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012207_sw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012207_ne_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012207_se_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012206_sw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012206_se_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012206_nw_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4012206_ne_10_.6_20160717_20161004
+✅ Downloaded: ca_m_4112261_sw_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4112261_se_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012221_ne_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4112260_se_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012221_nw_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012220_ne_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012213_se_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012213_sw_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012213_ne_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012213_nw_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012212_se_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012212_ne_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012205_sw_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4112261_sw_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012205_nw_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012205_se_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4112260_se_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012221_nw_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012221_ne_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012205_ne_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012204_se_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012204_ne_10_.6_20160713_20161004
+✅ Downloaded: ca_m_4012220_ne_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012213_sw_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012213_se_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012213_nw_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012212_se_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012212_ne_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012205_nw_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012204_se_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012205_ne_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012204_ne_10_1_20140729_20140923
+✅ Downloaded: ca_m_4012205_sw_10_1_20140729_20140923
+✅ Downloaded: ca_m_4112264_sw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4112263_sw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4112263_se_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012223_nw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012224_nw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4112262_sw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4112261_se_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012223_ne_10_1_20140726_20140923
+✅ Downloaded: ca_m_4112262_se_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012222_nw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012222_ne_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012216_nw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012215_sw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012215_nw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012216_sw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012215_se_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012214_se_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012214_sw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012215_ne_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012214_nw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012214_ne_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012208_sw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012208_nw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012213_ne_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012207_sw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012207_se_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012207_nw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012207_ne_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012206_sw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012206_se_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012206_ne_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012206_nw_10_1_20140726_20140923
+✅ Downloaded: ca_m_4012205_se_10_1_20140726_20140923
+
+📝 Metadata saved to tile_metadata.csv

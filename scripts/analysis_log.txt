@@ -1,0 +1,27 @@
+/home/manan/miniconda3/envs/greenvision/lib/python3.13/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/manan/miniconda3/envs/greenvision/lib/python3.13/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=DeepLabV3_ResNet101_Weights.COCO_WITH_VOC_LABELS_V1`. You can also use `weights=DeepLabV3_ResNet101_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+🔍 Processing ca_m_4112264_sw_10_060
+Traceback (most recent call last):
+  File "rasterio/_base.pyx", line 310, in rasterio._base.DatasetBase.__init__
+  File "rasterio/_base.pyx", line 221, in rasterio._base.open_dataset
+  File "rasterio/_err.pyx", line 359, in rasterio._err.exc_wrap_pointer
+rasterio._err.CPLE_OpenFailedError: '../data/ca_m_4112264_sw_10_060_20181007_20190209.tif' not recognized as being in a supported file format.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/manan/alt2/greenvision-ai/scripts/forest_loss_runner.py", line 114, in <module>
+    loss_map, coords_map, width, height = analyze_forest_loss(before_tif, after_tif)
+                                          ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/manan/alt2/greenvision-ai/scripts/forest_loss_runner.py", line 40, in analyze_forest_loss
+    with rasterio.open(tif_before) as src_before, rasterio.open(tif_after) as src_after:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/home/manan/miniconda3/envs/greenvision/lib/python3.13/site-packages/rasterio/env.py", line 463, in wrapper
+    return f(*args, **kwds)
+  File "/home/manan/miniconda3/envs/greenvision/lib/python3.13/site-packages/rasterio/__init__.py", line 356, in open
+    dataset = DatasetReader(path, driver=driver, sharing=sharing, **kwargs)
+  File "rasterio/_base.pyx", line 312, in rasterio._base.DatasetBase.__init__
+rasterio.errors.RasterioIOError: '../data/ca_m_4112264_sw_10_060_20181007_20190209.tif' not recognized as being in a supported file format.
